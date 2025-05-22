@@ -1,0 +1,9 @@
+
+streamlit
+langchain
+faiss-cpu
+python-docx
+pdfminer.six
+ollama
+tiktoken
+pandas
